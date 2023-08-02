@@ -18,7 +18,7 @@ This is a web application developed using Flask, a Python web framework. The Dis
 
 1. Clone the repository to your local machine:
    ```shell
-   git clone https://github.com/daviesevan/dispensary.git
+   git clone https://github.com/Andrewtanui/spudispensary.git
    ```
 
 2. Change into the project directory:
